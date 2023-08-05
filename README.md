@@ -1,5 +1,5 @@
 
-<h3>👋 Greetings, fellow coders! I'm [Your Name], charting the web development galaxy with a zest for learning and curiosity. 🚀</h3>
+<h3>👋 Greetings, fellow coders! I'm Hetvi Bhadani, charting the web development galaxy with a zest for learning and curiosity. 🚀</h3>
 <!--
 **hetvi4700/hetvi4700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

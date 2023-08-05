@@ -1,9 +1,5 @@
-### Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2013-04-16-new-github-logo%2F&psig=AOvVaw1RBWnkzik_0Bo7FevoHOfT&ust=1691309673429000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDfwNSJxYADFQAAAAAdAAAAABAE">
-</picture>
+
+<h3>👋 Greetings, fellow coders! I'm [Your Name], charting the web development galaxy with a zest for learning and curiosity. 🚀</h3>
 <!--
 **hetvi4700/hetvi4700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

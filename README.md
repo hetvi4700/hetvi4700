@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=623FF7&multiline=true&width=1200&lines=I'm+Hetvi+Bhadani%2C+charting+the+web+development+galaxy+with+a+zest+for+learning+and+curiosity.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=623FF7&multiline=true&width=1400&lines=I'm+Hetvi+Bhadani%2C+charting+the+web+development+galaxy+with+a+zest+for+learning+and+curiosity.+)](https://git.io/typing-svg)
 
 <h3>👋 Greetings, fellow coders! I'm Hetvi Bhadani, charting the web development galaxy with a zest for learning and curiosity. 🚀</h3>
 <!--

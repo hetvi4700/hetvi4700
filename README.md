@@ -1,4 +1,5 @@
-<a href="https://typograssy.deno.dev/api?text=Hello%20world!"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=623FF7&center=true&width=435&lines=I'm+Hetvi+Bhadani%2C+charting+the+web+development+galaxy+with+a+zest+for+learning+and+curiosity.+)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=623FF7&center=true&width=435&lines=I'm+Hetvi+Bhadani%2C+charting+the+web+development+galaxy+with+a+zest+for+learning+and+curiosity.+" alt="Typing SVG" /></a>
 <h3>👋 Greetings, fellow coders! I'm Hetvi Bhadani, charting the web development galaxy with a zest for learning and curiosity. 🚀</h3>
 <!--
 **hetvi4700/hetvi4700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

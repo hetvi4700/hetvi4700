@@ -1,5 +1,11 @@
-<img src="https://github.com/hetvi4700/hetvi4700/assets/110965929/f32a99d8-c455-4653-96ad-abee53ee9082" height=200 style={
-  margin=auto}></img>
+
+<span><img src="https://github.com/hetvi4700/hetvi4700/assets/110965929/5f3dce9e-056c-4461-98ed-03da00475210 height=250" height=200></img></span>
+<span>
+<img src="https://github.com/hetvi4700/hetvi4700/assets/110965929/f32a99d8-c455-4653-96ad-abee53ee9082" height=200></img>
+</span>
+
+
+
 ___________________________________________________________
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=BD3CF7&center=true&width=1000&height=70&lines=I+am+Hetvi+Bhadani%2C+charting+the+web+development+galaxy+;with+the+zest+for+learning+and+curiosity.)](https://git.io/typing-svg)
